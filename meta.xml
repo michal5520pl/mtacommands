@@ -1,0 +1,5 @@
+<meta>
+     <info author="Misiek5" version="1.0" type="script" name="commands" description="Zbiór komend" />
+     <script src="vehicleCommands.lua" type="server" />
+     <script src="moneyCommands.lua" type="server" />
+</meta>
